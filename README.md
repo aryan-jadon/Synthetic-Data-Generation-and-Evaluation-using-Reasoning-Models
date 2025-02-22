@@ -1,4 +1,4 @@
-# Synthetic Data Generation Using Reasoning Models
+# Synthetic Data Generation and Evaluation Using Reasoning Models
 
 ## DeepSeek-R1 Results 
-![deepseek-r1-results.png](images%2Fdeepseek-r1-results.png)
+![deepseek-r1-results.png](imageßs%2Fdeepseek-r1-results.png)
