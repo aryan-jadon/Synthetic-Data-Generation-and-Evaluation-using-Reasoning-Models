@@ -3,6 +3,21 @@
 ```
 This repository contains the implementation and evaluation framework from our research on optimizing Retrieval-Augmented Generation (RAG) systems for technical domains. Our toolkit addresses the unique challenges of precise information extraction from complex, domain-specific documents by introducing granular, token-aware evaluation metrics and a synthetic data generation pipeline.
 ```
+### Cite our Paper
+
+```bibtex
+
+@misc{jadon2025enhancingdomainspecificretrievalaugmentedgeneration,
+      title={Enhancing Domain-Specific Retrieval-Augmented Generation: Synthetic Data Generation and Evaluation using Reasoning Models}, 
+      author={Aryan Jadon and Avinash Patil and Shashank Kumar},
+      year={2025},
+      eprint={2502.15854},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.15854}, 
+}
+```
+
 ### Key Features
 
 - **Token-Aware Evaluation Metrics:**  
